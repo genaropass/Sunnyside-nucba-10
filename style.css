@@ -352,7 +352,7 @@ main{
     font-family: Arial, Helvetica, sans-serif;
     margin-bottom: 35px;
     width: 60%;
-    font-size: 12px;
+    font-size: 15px;
     font-weight: BOLD;
     filter:drop-shadow(0 8px 8px rgba(0,0,0,0.5));
 
@@ -366,11 +366,13 @@ main{
 }
 
 .section2 .left p {
-    text-align: center;
     color: #ffffff;
-    font-weight: bold;
-    font-size: 12px;
+    line-height: 1.8;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 35px;
     width: 60%;
+    font-size: 15px;
+    font-weight: BOLD;
     filter:drop-shadow(0 8px 8px rgba(0,0,0,0.5));
 }
 
